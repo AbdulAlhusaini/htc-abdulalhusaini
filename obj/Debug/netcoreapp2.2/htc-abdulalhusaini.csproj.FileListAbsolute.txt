@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\htc-abdulalhusaini\bin\Debug\netcoreapp2.2\htc-abdulalhusaini.deps.json
+C:\Users\User\Desktop\htc-abdulalhusaini\bin\Debug\netcoreapp2.2\htc-abdulalhusaini.runtimeconfig.json
+C:\Users\User\Desktop\htc-abdulalhusaini\bin\Debug\netcoreapp2.2\htc-abdulalhusaini.runtimeconfig.dev.json
+C:\Users\User\Desktop\htc-abdulalhusaini\bin\Debug\netcoreapp2.2\htc-abdulalhusaini.dll
+C:\Users\User\Desktop\htc-abdulalhusaini\bin\Debug\netcoreapp2.2\htc-abdulalhusaini.pdb
+C:\Users\User\Desktop\htc-abdulalhusaini\obj\Debug\netcoreapp2.2\htc-abdulalhusaini.csprojAssemblyReference.cache
+C:\Users\User\Desktop\htc-abdulalhusaini\obj\Debug\netcoreapp2.2\htc-abdulalhusaini.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\htc-abdulalhusaini\obj\Debug\netcoreapp2.2\htc-abdulalhusaini.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\htc-abdulalhusaini\obj\Debug\netcoreapp2.2\htc-abdulalhusaini.AssemblyInfo.cs
+C:\Users\User\Desktop\htc-abdulalhusaini\obj\Debug\netcoreapp2.2\htc-abdulalhusaini.dll
+C:\Users\User\Desktop\htc-abdulalhusaini\obj\Debug\netcoreapp2.2\htc-abdulalhusaini.pdb
